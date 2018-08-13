@@ -1,0 +1,92 @@
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Form0.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Properties.Resources.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csproj.GenerateResource.Cache
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csprojResolveAssemblyReference.cache
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.CustomMsgBox.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Envios.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.CustomMsgBox.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Envios.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Form0.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Properties.Resources.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csproj.GenerateResource.Cache
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csprojResolveAssemblyReference.cache
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.pdb
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.CustomMsgBox.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Envios.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Form0.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Historial.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Master.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Properties.Resources.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.SalidaCamiones.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csproj.GenerateResource.Cache
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-14122012-0220am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csprojResolveAssemblyReference.cache
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csprojResolveAssemblyReference.cache
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.CustomMsgBox.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Envios.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Form0.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Historial.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Master.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Properties.Resources.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.SalidaCamiones.resources
+C:\Users\Jesús\Documents\Teclaguna\3er semestre\ProyectoFinal\ProyectoFinalv2_backup-14122012-0117pm\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csproj.GenerateResource.Cache
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.pdb
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.CustomMsgBox.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Envios.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Form0.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Historial.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Master.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Properties.Resources.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.SalidaCamiones.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-0838am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csproj.GenerateResource.Cache
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.pdb
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.CustomMsgBox.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Envios.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Form0.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Historial.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Master.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.Properties.Resources.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.SalidaCamiones.resources
+D:\Documentos\#J\JM\ProyectoFinalv2_backup-15122012-1035am\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csproj.GenerateResource.Cache
+C:\Users\Jesús\Documents\Estructura de datos\Proyecto\CurrentVersion\ProyectoFinalv2\ProyectoFinalv2\bin\Debug\ProyectoFinalv2.exe.config
+C:\Users\Jesús\Documents\Estructura de datos\Proyecto\CurrentVersion\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.exe
+C:\Users\Jesús\Documents\Estructura de datos\Proyecto\CurrentVersion\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.pdb
+C:\Users\Jesús\Documents\Estructura de datos\Proyecto\CurrentVersion\ProyectoFinalv2\ProyectoFinalv2\obj\Debug\ProyectoFinalv2.csprojResolveAssemblyReference.cache
